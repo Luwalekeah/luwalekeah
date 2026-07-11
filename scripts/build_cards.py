@@ -74,7 +74,7 @@ def wrap(text, width=52, lines=2):
 
 
 def card(w, h, body, label):
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" role="img" aria-label="{esc(label)}">
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="{esc(label)}">
   <style>{FONT_CSS}
     .t {{ font: 700 18px 'Montserrat', sans-serif; }}
     .d {{ font: 500 13px 'Montserrat', sans-serif; }}

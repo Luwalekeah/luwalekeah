@@ -11,7 +11,7 @@
 <img src="assets/h-about.svg" alt="About Me" width="100%"/>
 
 - 🏥 Senior Data Engineer at UnitedHealthcare, building cloud-native healthcare data platforms
-- ❄️ Snowflake, Databricks, and Azure ML subject matter expert for a 35-member data science org
+- ❄️ Snowflake, Databricks, and Azure ML subject matter expert
 - 🔭 Currently building Luwah Technologies sites and apps
 - 🏠 Homelab: Proxmox cluster plus a 3-node k3s Kubernetes cluster, with encrypted 3-2-1 backups
 - 🎓 B.S. Computer Science, Colorado State University
