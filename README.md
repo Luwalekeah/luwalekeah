@@ -8,14 +8,16 @@
 
 </div>
 
-## About Me
+<img src="assets/h-about.svg" alt="About Me" width="100%"/>
 
-- 🏥 Data engineer on an enterprise healthcare data team
-- 🛠️ I build full stack apps and websites under Luwah Technologies
-- 🏠 I run a k3s and Proxmox homelab and automate everything I can
-- 📊 Snowflake first, medallion architecture on Databricks
+- 🏥 Senior Data Engineer at UnitedHealthcare, building cloud-native healthcare data platforms
+- ❄️ Snowflake, Databricks, and Azure ML subject matter expert for a 35-member data science org
+- 🔭 Currently building Luwah Technologies sites and apps
+- 🏠 Homelab: Proxmox cluster plus a 3-node k3s Kubernetes cluster, with encrypted 3-2-1 backups
+- 🎓 B.S. Computer Science, Colorado State University
+- 💬 Ask me about medallion architecture, Airflow, Next.js, or self-hosting
 
-## Tech Stack
+<img src="assets/h-stack.svg" alt="Tech Stack" width="100%"/>
 
 <div align="center">
 
@@ -33,7 +35,36 @@
 
 </div>
 
-## Top Projects
+<img src="assets/h-stats.svg" alt="GitHub Stats" width="100%"/>
+
+<div align="center">
+
+<img width="49%" src="assets/stats.svg" alt="GitHub stats"/>
+<img width="49%" src="assets/langs.svg" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Luwalekeah&background=0F1B24&border=2C4557&ring=B45A2B&fire=E09B6A&currStreakNum=E09B6A&currStreakLabel=4D7EA8&sideNums=A9BFCF&sideLabels=7FA8C9&dates=5E7183" alt="GitHub streak"/>
+
+</div>
+
+<img src="assets/h-graph.svg" alt="Contributions" width="100%"/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luwalekeah&bg_color=0F1B24&color=7FA8C9&line=B45A2B&point=E09B6A&area=true&area_color=B45A2B&title_color=E09B6A&hide_border=false&border_color=2C4557" alt="Contribution graph" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/Luwalekeah/luwalekeah/output/snake.svg" alt="Contribution snake" width="100%"/>
+
+</div>
+
+<img src="assets/h-quote.svg" alt="Dev Quote" width="100%"/>
+
+<div align="center">
+
+<img src="assets/quote.svg" alt="Without data you're just another person with an opinion. W. Edwards Deming" width="100%"/>
+
+</div>
+
+<img src="assets/h-projects.svg" alt="Top Projects" width="100%"/>
 
 <div align="center">
 
@@ -41,36 +72,36 @@
 <tr>
 <td>
 <a href="https://github.com/Luwalekeah/luwah-site">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Luwalekeah&repo=luwah-site&title_color=E09B6A&icon_color=4D7EA8&text_color=A9BFCF&bg_color=0F1B24&border_color=2C4557" alt="luwah-site"/>
+<img src="assets/pin-luwah-site.svg" alt="luwah-site"/>
 </a>
 </td>
 <td>
 <a href="https://github.com/Luwalekeah/watchsync">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Luwalekeah&repo=watchsync&title_color=E09B6A&icon_color=4D7EA8&text_color=A9BFCF&bg_color=0F1B24&border_color=2C4557" alt="watchsync"/>
+<img src="assets/pin-watchsync.svg" alt="watchsync"/>
 </a>
 </td>
 </tr>
 <tr>
 <td>
 <a href="https://github.com/Luwalekeah/Market-Research">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Luwalekeah&repo=Market-Research&title_color=E09B6A&icon_color=4D7EA8&text_color=A9BFCF&bg_color=0F1B24&border_color=2C4557" alt="Market-Research"/>
+<img src="assets/pin-Market-Research.svg" alt="Market-Research"/>
 </a>
 </td>
 <td>
 <a href="https://github.com/Luwalekeah/Digital-Resume">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Luwalekeah&repo=Digital-Resume&title_color=E09B6A&icon_color=4D7EA8&text_color=A9BFCF&bg_color=0F1B24&border_color=2C4557" alt="Digital-Resume"/>
+<img src="assets/pin-Digital-Resume.svg" alt="Digital-Resume"/>
 </a>
 </td>
 </tr>
 <tr>
 <td>
 <a href="https://github.com/Luwalekeah/Qwixx-ScoreSheet">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Luwalekeah&repo=Qwixx-ScoreSheet&title_color=E09B6A&icon_color=4D7EA8&text_color=A9BFCF&bg_color=0F1B24&border_color=2C4557" alt="Qwixx-ScoreSheet"/>
+<img src="assets/pin-Qwixx-ScoreSheet.svg" alt="Qwixx-ScoreSheet"/>
 </a>
 </td>
 <td>
 <a href="https://github.com/Luwalekeah/Quiddler-ScoreSheet">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Luwalekeah&repo=Quiddler-ScoreSheet&title_color=E09B6A&icon_color=4D7EA8&text_color=A9BFCF&bg_color=0F1B24&border_color=2C4557" alt="Quiddler-ScoreSheet"/>
+<img src="assets/pin-Quiddler-ScoreSheet.svg" alt="Quiddler-ScoreSheet"/>
 </a>
 </td>
 </tr>
@@ -78,16 +109,7 @@
 
 </div>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Luwalekeah&show_icons=true&title_color=E09B6A&icon_color=4D7EA8&text_color=A9BFCF&bg_color=0F1B24&border_color=2C4557&rank_icon=github" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luwalekeah&layout=compact&title_color=E09B6A&text_color=A9BFCF&bg_color=0F1B24&border_color=2C4557&langs_count=8" alt="Top languages"/>
-
-</div>
-
-## Connect
+<img src="assets/h-connect.svg" alt="Connect" width="100%"/>
 
 <div align="center">
 
