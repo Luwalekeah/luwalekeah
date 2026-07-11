@@ -92,5 +92,6 @@
 <div align="center">
 
 <a href="https://github.com/Luwalekeah"><img src="https://img.shields.io/badge/GitHub-B45A2B?style=for-the-badge&logo=github&logoColor=F2E9DD" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/daniel-cooke/"><img src="https://img.shields.io/badge/LinkedIn-4D7EA8?style=for-the-badge&logo=linkedin&logoColor=F2E9DD" alt="LinkedIn"/></a>
 
 </div>
