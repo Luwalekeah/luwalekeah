@@ -45,3 +45,25 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # Dead-man switch on the Luwah Healthchecks (check gh-luwalekeah-snake,
+  # daily 06:00 UTC). Runs after both jobs regardless of outcome and reports
+  # success only if both succeeded. Best-effort: never fails the workflow.
+  healthcheck:
+    needs: [cards, snake]
+    if: always()
+    runs-on: ubuntu-latest
+    permissions: {}
+    steps:
+      - name: Report to Healthchecks
+        env:
+          HC_PING_URL: ${{ secrets.HC_PING_URL }}
+          CARDS: ${{ needs.cards.result }}
+          SNAKE: ${{ needs.snake.result }}
+        run: |
+          [ -n "${HC_PING_URL:-}" ] || { echo "HC_PING_URL not set, skipping"; exit 0; }
+          if [ "$CARDS" = success ] && [ "$SNAKE" = success ]; then
+            curl -fsS --max-time 10 --retry 3 -o /dev/null "$HC_PING_URL" || true
+          else
+            curl -fsS --max-time 10 --retry 3 -o /dev/null "$HC_PING_URL/fail" || true
+          fi
